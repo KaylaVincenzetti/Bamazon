@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KaylaVincenzetti/Bamazon/issues"
   },
-  "homepage": "https://github.com/KaylaVincenzetti/Bamazon#readme"
+  "homepage": "https://github.com/KaylaVincenzetti/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
